@@ -1,4 +1,4 @@
-# Deploying Pulumi Applications with CodeShip Pro
+# Deploying Pulumi Applications with CodeShip Pro.
 
 This repository demonstrates how to use [CodeShip Pro](https://codeship.com/features/pro) to deploy a [Pulumi](https://pulumi.io) application. In this example we use the [Video Thumbnailer](https://github.com/pulumi/examples/tree/master/cloud-js-thumbnailer) example application.
 
